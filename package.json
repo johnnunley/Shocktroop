@@ -1,0 +1,22 @@
+{
+  "name": "shocktroop",
+  "version": "1.0.0",
+  "description": "Third person shooter, open source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnunley/Shocktroop.git"
+  },
+  "author": "johnnunley",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/johnnunley/Shocktroop/issues"
+  },
+  "homepage": "https://github.com/johnnunley/Shocktroop#readme",
+  "dependencies": {
+    "node-gyp": "^3.6.2"
+  }
+}
